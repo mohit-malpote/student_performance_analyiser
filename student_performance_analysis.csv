@@ -1,0 +1,386 @@
+student_id,name,gender,department,attendance_pct,ut1_marks,ut2_marks,sem1_cgpa,sem2_cgpa,sem3_cgpa,total_kts,kt_history
+DA202600,Mohit Malpote,M,Data Science,75.3,15,14,7.57,6.9,7.29,0,No
+DA202601,Ananya Sharma,F,Data Science,67.5,16,12,7.83,7.85,8.71,3,Yes
+DA202602,Rohan Verma,M,Data Science,83.8,19,20,6.94,7.84,6.74,0,No
+CS202603,Rahul Deshmukh,M,CSE,87.0,20,15,7.25,7.88,6.78,0,No
+CS202604,Meera Iyer,F,CSE,75.7,17,18,7.94,7.46,8.83,0,No
+AI202605,Ishaan Gupta,M,AIML,97.5,19,23,7.32,9.26,6.7,0,No
+IT202606,Priya Patil,F,IT,80.5,19,17,8.02,7.73,7.23,0,No
+IT202607,Vikram Singh,M,IT,85.8,19,15,6.66,7.94,7.66,0,No
+AI202608,Ahire Janhavi Ramdas,F,AIML,82.1,17,15,8.0,7.42,8.73,0,No
+AI202609,Avhad Samrudhi Drumil,F,AIML,61.4,13,12,7.32,9.49,8.31,0,No
+AI202610,Banerjee Shubhaan Subrata,M,AIML,82.6,20,18,9.36,8.92,8.83,0,No
+AI202611,Bangar Vedant Jaysing,M,AIML,71.3,15,13,8.6,6.62,7.85,0,No
+AI202612,Baviskar Shree Satish,M,AIML,77.7,18,13,7.21,7.29,7.31,0,No
+AI202613,Bhagat Piyush Mitesh,M,AIML,64.5,14,11,9.0,9.48,7.86,0,No
+AI202614,Bhalerao Bhushan Sunil,M,AIML,79.7,17,19,7.86,7.43,9.11,0,No
+AI202615,Bhaskar Avinash Jai Prakash,M,AIML,89.0,19,15,8.22,8.94,8.07,0,No
+AI202616,Chavan Daksh Mangesh,M,AIML,67.2,15,15,7.34,7.27,9.18,0,No
+AI202617,Chikhalikar Aditi Sameer,F,AIML,75.5,15,14,6.5,8.64,7.41,0,No
+AI202618,Chillapwar Siddharth Sharad,M,AIML,70.6,14,16,7.37,6.58,6.95,0,No
+AI202619,Chopade Yogesh Dagdu,M,AIML,79.0,19,18,7.41,6.61,7.06,0,No
+AI202620,Dalvi Mahi Amol,F,AIML,66.9,14,11,7.1,9.12,8.16,0,No
+AI202621,Dangle Shrawan Sudhakar,M,AIML,85.3,21,16,6.98,8.96,6.97,0,No
+AI202622,Deshmukh Harshal Rajendra,M,AIML,95.1,22,21,8.2,7.28,9.39,0,No
+AI202623,Dhamale Sahil Santosh,M,AIML,72.7,16,17,9.33,7.11,7.09,0,No
+AI202624,Dhanawade Vaishnavi Prakash,F,AIML,62.2,12,11,8.42,7.88,7.47,0,No
+AI202625,Dhekane Arya Sameer,F,AIML,81.4,16,16,6.98,9.37,9.23,0,No
+AI202626,Dhikale Rushikesh Balu,M,AIML,98.0,22,20,7.3,9.29,7.65,0,No
+AI202627,Dhumal Anushri Santosh,F,AIML,74.7,16,17,8.18,7.6,9.32,0,No
+AI202628,Gade Tejas Ramesh,M,AIML,83.3,18,19,7.24,9.4,9.48,0,No
+AI202629,Gaikwad Rutuja Rajendra,F,AIML,82.0,17,18,7.01,6.94,7.0,0,No
+AI202630,Gajare Prathamesh Bhagwan,M,AIML,67.9,13,16,6.6,8.37,FAIL,3,Yes
+AI202631,Ghuge Sakshi Sudam,F,AIML,69.4,16,15,8.1,8.93,FAIL,1,Yes
+AI202632,Gunjal Tanvi Gorakshnath,F,AIML,90.6,18,19,7.14,8.22,9.01,0,No
+AI202633,Gupta Ayush Mithilesh,M,AIML,72.2,17,16,8.52,6.51,8.42,2,Yes
+AI202634,Jadhav Arati Somnath,F,AIML,92.0,22,21,8.08,6.8,7.75,0,No
+AI202635,Jadhav Gayatri Bharat,F,AIML,88.9,20,18,8.22,9.43,6.75,0,No
+AI202636,Jadhav Prerana Dnyandev,F,AIML,85.0,17,17,8.45,6.81,8.14,0,No
+AI202637,Jadhav Sanskruti Dadasaheb,F,AIML,95.4,21,17,8.96,6.62,7.43,0,No
+AI202638,Jagdhane Aditi Nitin,F,AIML,75.3,15,17,9.4,6.56,6.99,0,No
+AI202639,Jagtanp Prathamesh Somnath,M,AIML,77.6,18,18,7.37,8.08,8.47,0,No
+AI202640,Jagtap Tanmay Vijay,M,AIML,66.3,13,12,9.22,8.59,7.63,2,Yes
+AI202641,Joshi Krishnakant Pramod,M,AIML,79.8,18,16,7.44,7.65,7.9,0,No
+AI202642,Kadam Tanvi Sunil,F,AIML,67.1,16,15,7.31,7.46,7.77,0,No
+AI202643,Kadu Pratik Pradip,M,AIML,65.4,14,14,FAIL,FAIL,9.12,2,Yes
+AI202644,Kale Samruddhi Jitendra,F,AIML,91.6,21,22,9.41,6.59,8.02,0,No
+AI202645,Kapure Shravani Amol,F,AIML,70.1,14,12,7.36,7.04,8.46,0,No
+AI202646,Kulkarni Gargi Rahul,F,AIML,66.0,16,15,7.66,7.93,9.45,0,No
+AI202647,Kulkarni Neeti Nitin,F,AIML,73.5,15,14,FAIL,9.3,6.69,3,Yes
+AI202648,Kumavat Jayesh Digambar,M,AIML,81.2,18,16,7.81,7.95,7.72,0,No
+AI202649,Labhade Shrutika Dnyaneshwar,F,AIML,88.2,19,21,8.61,7.96,7.62,0,No
+AI202650,Magar Gauri Sanjay,F,AIML,77.1,16,14,6.74,8.51,8.68,0,No
+AI202651,Mahajan Dhiraj Santosh,M,AIML,92.0,22,20,8.89,7.76,8.92,0,No
+AI202652,Malode Gauravi Prashant,F,AIML,69.5,16,16,9.02,7.74,7.56,0,No
+AI202653,Mandlik Sanskruti Shailesh,F,AIML,97.2,19,22,8.43,8.65,7.19,0,No
+AI202654,Mane Rutuja Shashikant,F,AIML,66.3,14,13,9.36,FAIL,8.15,3,Yes
+AI202655,Medhane Prerana Balu,F,AIML,81.4,18,18,8.05,7.9,6.81,0,No
+AI202656,Mogal Bhakti Sandip,F,AIML,81.2,17,20,7.44,8.09,9.07,0,No
+AI202657,More Gaurav Ramesh,M,AIML,75.5,15,16,8.83,9.32,8.55,0,No
+AI202658,Nikam Pratiksha Balu,F,AIML,88.8,21,20,9.08,8.72,7.91,0,No
+AI202659,Pagar Sanika Nandkumar,F,AIML,83.3,19,15,8.42,8.14,8.95,0,No
+AI202660,Palve Pranav Ramdas,M,AIML,95.4,23,23,7.81,8.49,7.57,0,No
+AI202661,Panchbhai Rutuja Nitin,F,AIML,90.1,19,18,8.79,7.25,8.51,0,No
+AI202662,Pandey Shreya Jitendra,F,AIML,90.3,20,18,6.86,6.51,6.86,0,No
+AI202663,Pansare Sahil Dnyaneshwar,M,AIML,79.4,16,17,9.12,7.3,7.47,0,No
+AI202664,Parakh Naman Paresh,M,AIML,74.6,14,18,9.14,7.67,7.48,2,Yes
+AI202665,Pardeshi Sakshi Kishorsing,F,AIML,71.8,14,16,8.06,8.42,8.41,0,No
+AI202666,Patankar Vedant Santosh,M,AIML,87.9,21,21,7.57,7.41,7.59,0,No
+AI202667,Pathan Saniya Jafar,F,AIML,93.4,21,23,7.47,9.29,9.09,0,No
+AI202668,Patil Aaditya Vijay,M,AIML,69.4,14,16,FAIL,FAIL,6.99,3,Yes
+AI202669,Patil Prathamesh Pramod,M,AIML,89.5,20,20,8.53,7.27,9.34,0,No
+AI202670,Patil Purva Hemant,F,AIML,87.5,19,18,9.2,7.95,7.6,0,No
+AI202671,Patil Vaishnavi Amol,F,AIML,63.2,14,12,6.93,8.67,8.54,0,No
+AI202672,Pawar Pratiksha Sanjay,F,AIML,84.5,19,18,6.93,7.69,9.41,0,No
+DA202673,Ambekar Shrutika Mahesh,F,Data Science,94.5,21,20,6.67,8.39,8.36,0,No
+DA202674,Aparadh Ayush Pradipkumar,M,Data Science,97.0,20,20,7.27,7.77,8.58,0,No
+DA202675,Avhad Shreyas Balu,M,Data Science,93.4,20,16,9.08,7.44,8.25,0,No
+DA202676,Bachhav Prathamesh Arun,M,Data Science,60.6,12,14,FAIL,FAIL,8.27,3,Yes
+DA202677,Bagul Vedant Sanjay,M,Data Science,60.9,14,11,7.78,9.05,FAIL,3,Yes
+DA202678,Belekar Rutuja Milind,F,Data Science,80.4,16,19,8.43,8.05,7.61,0,No
+DA202679,Bhadange Tanmay Santosh,M,Data Science,97.6,21,17,7.27,9.14,7.96,0,No
+DA202680,Bhamare Aniket Sandeep,M,Data Science,68.9,14,13,6.93,6.61,8.77,2,Yes
+DA202681,Bhamare Atharva Hemraj,M,Data Science,81.2,19,19,7.52,6.91,6.96,0,No
+DA202682,Bharati Sanvi Sachin,F,Data Science,83.0,17,18,8.88,8.37,7.29,0,No
+DA202683,Borse Dipti Ravindra,F,Data Science,88.1,20,16,8.58,7.27,8.56,0,No
+DA202684,Chaudhari Deven Dinesh,M,Data Science,74.6,16,13,9.04,9.02,7.94,0,No
+DA202685,Chavanke Gaurav Balasaheb,M,Data Science,66.3,14,11,FAIL,9.45,7.1,1,Yes
+DA202686,Dalvi Pratik Sanjay,M,Data Science,90.2,22,17,8.3,7.75,8.45,0,No
+DA202687,Deore Jayesh Sanjay,M,Data Science,76.1,15,15,7.15,6.8,9.36,0,No
+DA202688,Deore Parth Milind,M,Data Science,87.1,19,20,6.78,9.44,7.57,0,No
+DA202689,Deshmukh Varun Pravin,M,Data Science,64.6,15,12,8.37,7.91,8.78,1,Yes
+DA202690,Deshpande Atharv Milind,M,Data Science,63.9,14,12,7.46,8.88,8.24,1,Yes
+DA202691,Dherange Aniket Gorakh,M,Data Science,91.4,21,18,8.43,7.65,8.41,0,No
+DA202692,Dhumal Prajwal Ramesh,M,Data Science,60.1,12,11,7.69,8.65,9.08,0,No
+DA202693,Gaikwad Yash Somnath,M,Data Science,70.4,15,13,FAIL,FAIL,8.42,3,Yes
+DA202694,Gangurde Kunal Sharad,M,Data Science,64.4,13,15,8.48,7.27,7.0,0,No
+DA202695,Gavande Piyush Santosh,M,Data Science,72.4,17,13,FAIL,9.42,8.18,3,Yes
+DA202696,Ghuge Adesh Vishnu,M,Data Science,63.1,13,12,8.11,7.53,FAIL,2,Yes
+DA202697,Ghuge Omkar Sanjay,M,Data Science,69.1,16,16,FAIL,9.17,7.29,1,Yes
+DA202698,Gite Omkar Nivrutti,M,Data Science,92.6,19,17,9.33,7.12,7.81,0,No
+DA202699,Gosavi Tejas Chandrakant,M,Data Science,64.2,15,14,FAIL,8.04,7.05,1,Yes
+DA202700,Gunjal Vedant Sandip,M,Data Science,70.4,14,15,6.59,9.32,FAIL,3,Yes
+DA202701,Handore Atharva Chandrashekhar,M,Data Science,85.3,19,18,7.11,7.65,7.14,0,No
+DA202702,Hire Sanchit Deepak,M,Data Science,88.5,21,19,9.21,8.03,8.85,0,No
+DA202703,Hon Sahil Somnath,M,Data Science,73.0,17,15,8.8,8.13,7.88,0,No
+DA202704,Jadhav Pranav Pandurang,M,Data Science,94.4,22,23,7.67,8.97,6.55,0,No
+DA202705,Jadhav Pritish Nitin,M,Data Science,78.6,15,15,7.03,9.15,8.86,0,No
+DA202706,Jagdale Pratik Sanjay,M,Data Science,66.6,15,15,FAIL,7.4,9.22,2,Yes
+DA202707,Jagtap Onkar Rajendra,M,Data Science,84.7,20,14,8.86,6.71,8.39,0,No
+DA202708,Jagtap Sarthak Jitendra,M,Data Science,66.8,15,13,8.23,7.02,9.2,0,No
+DA202709,Kachave Vaibhav Sudam,M,Data Science,87.3,20,17,8.32,6.81,9.07,0,No
+DA202710,Kadam Vedant Nitin,M,Data Science,60.2,13,11,9.16,6.93,9.27,0,No
+DA202711,Kailas Dnyaneshwar Handge,M,Data Science,73.0,15,15,6.91,7.01,9.29,1,Yes
+DA202712,Kandekar Yash Sampat,M,Data Science,84.6,19,18,8.4,8.78,7.39,0,No
+DA202713,Kapadnis Darshan Nitin,M,Data Science,60.8,13,11,FAIL,7.83,9.22,2,Yes
+DA202714,Kapile Vedant Sunil,M,Data Science,94.6,20,20,8.83,6.57,8.59,0,No
+DA202715,Kasar Prathamesh Hemant,M,Data Science,61.9,13,12,7.87,FAIL,FAIL,3,Yes
+DA202716,Katkade Vedant Amol,M,Data Science,63.4,13,12,9.18,6.92,7.98,1,Yes
+DA202717,Kautkar Shivam Sanjay,M,Data Science,92.9,19,20,8.3,6.91,7.94,0,No
+DA202718,Khaire Ayush Pramod,M,Data Science,93.3,22,21,8.87,6.67,8.58,0,No
+DA202719,Khaire Vedant Nitin,M,Data Science,83.1,19,15,8.35,8.86,7.85,0,No
+DA202720,Khalkar Ayush Sanjay,M,Data Science,66.1,14,13,FAIL,6.6,FAIL,1,Yes
+DA202721,Khatale Tejas Ravindra,M,Data Science,63.4,13,13,8.44,8.78,9.01,0,No
+DA202722,Koli Ayush Sunil,M,Data Science,66.7,14,14,8.33,6.8,7.54,0,No
+DA202723,Kothawade Yash Sudhakar,M,Data Science,95.3,19,17,6.99,8.41,7.48,0,No
+DA202724,Kshatriya Gaurav Sanjay,M,Data Science,76.1,16,17,8.83,7.72,6.82,0,No
+DA202725,Kshirsagar Jayesh Balasaheb,M,Data Science,88.3,18,21,8.35,9.25,7.23,0,No
+DA202726,Kulkarni Omkar Prasad,M,Data Science,88.7,19,16,8.23,7.7,6.75,0,No
+DA202727,Kulkarni Pranav Prashant,M,Data Science,79.7,16,18,9.07,9.19,8.74,0,No
+DA202728,Kulkarni Vedant Sanjay,M,Data Science,67.5,14,14,7.57,7.68,7.6,1,Yes
+DA202729,Kumavat Bhavesh Sudhakar,M,Data Science,62.0,14,10,8.82,FAIL,7.45,1,Yes
+DA202730,Kumavat Vedant Sanjay,M,Data Science,75.2,15,15,8.37,8.85,9.09,0,No
+DA202731,Kumbharde Vedant Vilas,M,Data Science,78.6,15,15,8.04,7.36,9.23,0,No
+DA202732,Kurhe Shubham Sandeep,M,Data Science,79.9,16,18,9.17,8.26,9.07,0,No
+DA202733,Kushare Chaitanya Bharat,M,Data Science,69.1,16,14,7.07,8.46,7.11,0,No
+DA202734,Kute Yash Somnath,M,Data Science,63.1,12,12,7.34,9.5,8.8,0,No
+DA202735,Lahane Atharva Babasaheb,M,Data Science,70.8,16,13,9.38,8.82,8.4,0,No
+DA202736,Lonari Prajwal Santosh,M,Data Science,75.8,18,13,8.31,8.14,8.44,0,No
+DA202737,Madhav Atharva Atul,M,Data Science,77.5,17,14,7.19,6.63,8.57,0,No
+DA202738,Mahajan Dhruv Sanjay,M,Data Science,62.8,13,13,FAIL,FAIL,8.37,2,Yes
+DA202739,Malpathak Sarvadnya Atul,M,Data Science,88.9,18,22,7.95,6.51,6.8,0,No
+DA202740,Mandavade Ayush Balu,M,Data Science,91.6,19,22,8.65,7.25,8.52,0,No
+DA202741,Mandlik Arnav Santosh,M,Data Science,90.3,22,17,8.54,8.22,6.63,0,No
+DA202742,Maniyar Ammar Imtiyaz,M,Data Science,68.1,16,13,FAIL,6.69,FAIL,2,Yes
+DA202743,Meher Sumit Dnyaneshwar,M,Data Science,69.4,14,17,FAIL,8.46,8.61,3,Yes
+DA202744,Mhalankar Aryan Shailesh,M,Data Science,65.6,13,15,8.46,FAIL,7.89,1,Yes
+DA202745,More Harshvardhan Dilip,M,Data Science,61.6,13,14,7.87,8.59,FAIL,3,Yes
+DA202746,Mutrak Atharva Satish,M,Data Science,78.9,16,14,7.69,7.22,7.37,0,No
+CS202747,Abhang Sahil Balasaheb,M,CSE,77.8,15,15,6.65,8.13,7.48,0,No
+CS202748,Aher Samarth Vilas,M,CSE,84.8,17,15,7.88,7.42,9.39,0,No
+CS202749,Aher Sarvesh Ravindra,M,CSE,76.6,18,19,8.61,9.24,8.25,0,No
+CS202750,Ahirrao Harshal Rajendra,M,CSE,62.0,14,14,8.57,9.34,8.29,0,No
+CS202751,Argade Tejas Satish,M,CSE,93.8,19,21,8.96,7.18,9.36,0,No
+CS202752,Asane Suyash Ramesh,M,CSE,92.0,20,21,7.42,7.52,8.93,0,No
+CS202753,Avhad Atharva Satish,M,CSE,64.6,13,14,FAIL,8.14,7.83,3,Yes
+CS202754,Bachhav Manas Satish,M,CSE,82.3,20,17,7.79,6.72,9.31,0,No
+CS202755,Badhan Om Kiran,M,CSE,73.3,17,15,7.05,8.97,8.81,0,No
+CS202756,Bagul Prathamesh Mahendra,M,CSE,75.8,17,13,7.31,7.43,6.5,0,No
+CS202757,Bairagi Kaushal Kishor,M,CSE,83.6,19,19,8.7,7.18,7.43,0,No
+CS202758,Bakare Atharva Prashant,M,CSE,86.8,20,15,9.46,7.4,8.51,0,No
+CS202759,Bangar Vedant Deepak,M,CSE,63.8,15,15,6.75,7.6,8.99,0,No
+CS202760,Barahate Aditya Sudhakar,M,CSE,78.2,19,14,9.01,6.87,7.63,0,No
+CS202761,Barve Ishan Amol,M,CSE,81.5,17,16,7.81,8.38,9.18,0,No
+CS202762,Bedse Yash Bhila,M,CSE,60.3,12,12,8.72,7.71,9.38,0,No
+CS202763,Bhadane Piyush Sanjay,M,CSE,78.8,18,18,6.78,8.28,7.15,0,No
+CS202764,Bhadane Vedant Hemant,M,CSE,66.8,16,16,6.91,6.57,8.75,0,No
+CS202765,Bhalerao Pruthviraj Rahul,M,CSE,84.6,19,14,8.93,6.61,7.46,0,No
+CS202766,Bhamare Aryan Pravin,M,CSE,87.8,19,16,7.52,8.83,9.09,0,No
+CS202767,Bhamare Dhananjay Bharat,M,CSE,77.1,18,18,8.75,8.05,9.16,0,No
+CS202768,Bhamare Himanshu Sanjay,M,CSE,65.7,13,13,6.74,6.59,8.54,0,No
+CS202769,Bhamare Kunal Shashikant,M,CSE,96.9,23,18,8.42,9.38,6.55,0,No
+CS202770,Bhangare Gaurav Somnath,M,CSE,62.5,14,13,7.44,6.55,6.54,3,Yes
+CS202771,Bhosale Shrawan Pravin,M,CSE,75.8,16,15,7.4,7.62,6.95,0,No
+CS202772,Bodke Rushikesh Sunil,M,CSE,83.8,20,18,8.0,9.33,6.86,0,No
+CS202773,Borse Suyash Sanjay,M,CSE,97.3,20,20,7.28,8.95,6.65,0,No
+CS202774,Bramhankar Rudra Rahul,M,CSE,67.4,16,15,FAIL,8.98,6.65,2,Yes
+CS202775,Chaudhari Mayuresh Sudhir,M,CSE,72.0,16,16,7.33,7.2,7.45,0,No
+CS202776,Chaudhari Sarvesh Kiran,M,CSE,71.3,15,14,9.22,9.45,8.9,1,Yes
+CS202777,Chavan Atharva Sanjay,M,CSE,63.9,15,12,8.92,7.9,FAIL,3,Yes
+CS202778,Chavanke Gaurav Balasaheb,M,CSE,75.7,15,15,9.46,7.57,6.74,0,No
+CS202779,Dahatonde Atharva Rajendra,M,CSE,77.8,16,15,8.53,7.28,8.43,0,No
+CS202780,Dahiphale Pratik Shivaji,M,CSE,72.7,16,15,8.77,8.16,8.01,0,No
+CS202781,Dalvi Pratik Sanjay,M,CSE,84.2,19,17,7.85,6.53,7.43,0,No
+CS202782,Darade Sahil Baban,M,CSE,97.2,23,20,8.41,7.88,9.4,0,No
+CS202783,Deore Jayesh Sanjay,M,CSE,63.8,14,12,7.09,6.88,FAIL,2,Yes
+CS202784,Deore Parth Milind,M,CSE,61.3,14,10,7.47,FAIL,FAIL,3,Yes
+CS202785,Deshmukh Omkar Bharat,M,CSE,77.7,15,15,7.49,7.4,7.57,0,No
+CS202786,Deshpande Sharvil Shailesh,M,CSE,68.7,13,15,8.72,8.0,8.59,0,No
+CS202787,Devre Atharva Sanjay,M,CSE,90.1,20,19,8.52,9.16,7.99,0,No
+CS202788,Dhage Prathamesh Manoj,M,CSE,89.7,18,18,7.2,9.11,7.68,0,No
+CS202789,Dhande Tejas Shivaji,M,CSE,90.5,19,21,8.58,8.68,8.97,0,No
+CS202790,Dherange Aniket Gorakh,M,CSE,80.2,18,18,7.13,6.93,7.02,0,No
+CS202791,Dhumal Prajwal Ramesh,M,CSE,74.2,15,16,FAIL,6.71,7.13,2,Yes
+CS202792,Gaikwad Piyush Pravin,M,CSE,73.4,17,17,8.52,8.08,8.82,0,No
+CS202793,Gaikwad Rutwik Sanjay,M,CSE,64.7,13,14,7.99,7.06,8.89,0,No
+CS202794,Galande Vedant Kailas,M,CSE,67.1,15,13,7.16,8.72,7.6,0,No
+CS202795,Gangurde Kunal Sharad,M,CSE,86.2,19,17,6.52,9.41,7.33,0,No
+CS202796,Gavande Piyush Santosh,M,CSE,68.9,14,15,6.9,9.17,7.41,0,No
+CS202797,Ghadage Aniket Shivaji,M,CSE,69.0,15,16,6.85,7.55,FAIL,2,Yes
+CS202798,Ghagare Rushikesh Sunil,M,CSE,79.4,19,19,9.34,7.36,8.54,0,No
+CS202799,Gite Omkar Nivrutti,M,CSE,97.2,19,23,9.36,9.38,8.81,0,No
+CS202800,Gosavi Tejas Chandrakant,M,CSE,88.4,20,20,8.62,8.05,8.06,0,No
+CS202801,Gujarathi Vedant Manoj,M,CSE,96.2,23,21,6.85,8.76,8.91,0,No
+CS202802,Gunjal Vedant Sandip,M,CSE,72.4,16,17,7.75,FAIL,FAIL,1,Yes
+CS202803,Gupta Ayushkumar Ramkumar,M,CSE,84.0,20,14,9.23,7.61,6.9,0,No
+CS202804,Handore Atharva Chandrashekhar,M,CSE,94.7,22,20,6.93,8.91,9.24,0,No
+CS202805,Hire Sanchit Deepak,M,CSE,67.1,13,12,6.98,7.81,8.14,0,No
+CS202806,Hon Sahil Somnath,M,CSE,66.7,13,14,7.63,9.09,8.44,1,Yes
+CS202807,Ingale Vaibhav Santosh,M,CSE,84.0,18,15,7.47,8.0,7.69,0,No
+CS202808,Jadhav Pranav Pandurang,M,CSE,83.8,19,19,7.23,8.14,9.17,0,No
+CS202809,Jadhav Pritish Nitin,M,CSE,74.6,16,16,7.93,7.56,8.23,0,No
+CS202810,Jadhav Vedant Ravindra,M,CSE,90.8,18,20,8.23,8.39,6.74,0,No
+CS202811,Jagdale Pratik Sanjay,M,CSE,65.8,14,15,7.49,7.24,7.71,1,Yes
+CS202812,Jagdale Tejas Shriram,M,CSE,76.3,17,16,9.06,7.0,8.96,0,No
+CS202813,Jagtap Onkar Rajendra,M,CSE,97.9,20,18,7.95,8.65,8.59,0,No
+CS202814,Jagtap Sarthak Jitendra,M,CSE,91.3,22,21,6.93,8.62,7.23,0,No
+CS202815,Jamdhade Ayush Manoj,M,CSE,94.6,19,23,6.75,7.07,7.83,0,No
+CS202816,Kachave Vaibhav Sudam,M,CSE,70.3,16,16,7.87,7.07,9.01,0,No
+CS202817,Kachhi Ammar Asif,M,CSE,95.9,21,18,9.34,8.69,6.64,0,No
+CS202818,Kadam Vedant Nitin,M,CSE,81.7,17,15,7.54,8.02,9.29,0,No
+CS202819,Kailas Dnyaneshwar Handge,M,CSE,70.8,14,12,FAIL,7.51,7.34,1,Yes
+CS202820,Kandekar Yash Sampat,M,CSE,89.3,19,18,8.36,7.79,8.47,0,No
+CS202821,Kapadnis Darshan Nitin,M,CSE,81.3,18,18,7.57,8.16,8.32,0,No
+CS202822,Kapile Vedant Sunil,M,CSE,84.2,19,18,6.66,7.55,7.5,0,No
+CS202823,Kasar Prathamesh Hemant,M,CSE,97.7,20,20,7.11,7.34,6.7,0,No
+CS202824,Katkade Vedant Amol,M,CSE,71.7,16,13,8.54,8.75,7.44,0,No
+CS202825,Kautkar Shivam Sanjay,M,CSE,79.9,17,15,8.83,7.76,7.98,0,No
+CS202826,Khaire Ayush Pramod,M,CSE,60.5,13,12,8.7,8.04,7.57,0,No
+CS202827,Khaire Vedant Nitin,M,CSE,62.8,15,15,8.3,8.94,8.51,0,No
+CS202828,Khalkar Ayush Sanjay,M,CSE,64.1,13,14,8.14,7.86,9.25,0,No
+CS202829,Khatale Tejas Ravindra,M,CSE,73.3,17,14,6.9,7.88,7.46,0,No
+CS202830,Koli Ayush Sunil,M,CSE,75.8,16,18,8.72,7.36,8.37,0,No
+CS202831,Kothawade Yash Sudhakar,M,CSE,62.5,13,12,8.08,8.73,7.7,0,No
+CS202832,Kshatriya Gaurav Sanjay,M,CSE,65.0,14,14,6.69,8.49,6.56,0,No
+CS202833,Kshirsagar Jayesh Balasaheb,M,CSE,95.8,21,18,9.45,8.41,8.16,0,No
+CS202834,Kulkarni Omkar Prasad,M,CSE,61.4,12,15,7.55,8.21,7.84,2,Yes
+CS202835,Kulkarni Pranav Prashant,M,CSE,62.3,15,12,8.03,FAIL,7.37,2,Yes
+CS202836,Kulkarni Vedant Sanjay,M,CSE,67.9,16,14,8.96,FAIL,6.8,1,Yes
+CS202837,Kumavat Bhavesh Sudhakar,M,CSE,88.9,20,17,9.38,9.26,9.26,0,No
+CS202838,Kumavat Vedant Sanjay,M,CSE,89.4,20,18,6.6,6.99,8.64,0,No
+CS202839,Kumbharde Vedant Vilas,M,CSE,96.8,20,16,8.86,7.0,7.41,0,No
+CS202840,Kurhe Shubham Sandeep,M,CSE,62.6,13,11,9.07,6.62,7.82,0,No
+CS202841,Kushare Chaitanya Bharat,M,CSE,71.4,15,15,8.6,9.39,8.87,3,Yes
+CS202842,Kute Yash Somnath,M,CSE,92.2,18,22,9.02,8.72,8.44,0,No
+CS202843,Lahane Atharva Babasaheb,M,CSE,91.0,18,22,7.94,9.45,6.98,0,No
+CS202844,Lonari Prajwal Santosh,M,CSE,81.0,20,20,7.81,7.42,6.57,0,No
+CS202845,Madhav Atharva Atul,M,CSE,95.6,23,21,8.33,7.44,8.33,0,No
+CS202846,Mahajan Dhruv Sanjay,M,CSE,86.7,18,16,9.43,7.35,9.18,0,No
+CS202847,Malpathak Sarvadnya Atul,M,CSE,81.2,17,16,7.06,6.74,7.05,0,No
+CS202848,Mandavade Ayush Balu,M,CSE,91.7,20,19,9.02,7.52,8.08,0,No
+CS202849,Mandlik Arnav Santosh,M,CSE,61.8,14,13,7.54,6.99,FAIL,3,Yes
+CS202850,Maniyar Ammar Imtiyaz,M,CSE,77.8,17,18,9.31,7.65,8.14,0,No
+CS202851,Meher Sumit Dnyaneshwar,M,CSE,60.1,13,11,8.68,6.94,8.23,2,Yes
+CS202852,Mhalankar Aryan Shailesh,M,CSE,95.4,23,19,8.32,7.68,7.23,0,No
+CS202853,More Harshvardhan Dilip,M,CSE,70.1,16,17,9.45,8.23,9.36,0,No
+CS202854,Mutrak Atharva Satish,M,CSE,74.1,15,16,FAIL,8.48,FAIL,2,Yes
+CS202855,Nagpure Vedant Nitin,M,CSE,97.0,20,18,8.28,7.55,7.56,0,No
+CS202856,Najan Atharva Shivaji,M,CSE,75.7,16,17,7.07,8.2,9.3,0,No
+CS202857,Nikam Piyush Nandkumar,M,CSE,64.3,14,16,9.48,7.8,7.36,0,No
+CS202858,Nikam Vaibhav Dipak,M,CSE,87.2,19,19,9.14,8.89,8.85,0,No
+CS202859,Niranjan Sunil Handge,M,CSE,65.5,13,14,8.99,7.87,7.83,0,No
+CS202860,Pagar Ishan Sandip,M,CSE,77.1,16,18,8.52,8.16,7.62,0,No
+CS202861,Pagare Sahil Satish,M,CSE,71.4,17,12,8.16,8.92,8.82,0,No
+CS202862,Palve Pranav Ramdas,M,CSE,94.0,20,21,9.04,7.65,9.13,0,No
+CS202863,Panchbhai Rutvik Nitin,M,CSE,62.1,13,15,FAIL,7.22,7.96,3,Yes
+CS202864,Pardeshi Pruthviraj Shivsing,M,CSE,96.5,19,17,7.15,6.77,7.95,0,No
+CS202865,Patil Aaditya Vijay,M,CSE,88.0,19,17,8.4,7.85,8.19,0,No
+CS202866,Patil Atharva Nitin,M,CSE,86.1,21,16,8.56,7.67,8.54,0,No
+CS202867,Patil Gaurav Sunil,M,CSE,68.4,13,14,8.25,FAIL,6.88,1,Yes
+CS202868,Patil Harshal Sanjay,M,CSE,81.0,18,17,8.11,9.33,6.66,0,No
+CS202869,Patil Pranav Rajendra,M,CSE,63.3,14,13,7.65,7.75,6.57,0,No
+CS202870,Patil Prathamesh Santosh,M,CSE,87.6,19,20,7.86,6.66,6.51,0,No
+CS202871,Patil Tejas Shivaji,M,CSE,74.4,15,15,FAIL,8.88,8.85,2,Yes
+CS202872,Patole Bhushan Bhausaheb,M,CSE,63.5,13,14,8.56,9.1,7.04,0,No
+CS202873,Pawar Aditya Nitin,M,CSE,92.0,20,20,7.4,8.7,8.9,0,No
+CS202874,Pawar Atharva Sanjay,M,CSE,96.5,21,18,8.86,9.18,7.44,0,No
+CS202875,Pawar Pruthviraj Balasaheb,M,CSE,67.1,14,15,9.21,9.41,8.82,3,Yes
+CS202876,Pawar Sahil Santosh,M,CSE,60.9,15,12,9.1,8.97,6.73,0,No
+CS202877,Pawar Yash Hemant,M,CSE,70.6,15,13,9.38,9.5,6.67,0,No
+CS202878,Pingal Atharva Chandrakant,M,CSE,72.5,15,13,8.36,9.39,7.03,0,No
+CS202879,Raka Sahil Shailesh,M,CSE,88.5,20,19,7.5,6.62,6.69,0,No
+CS202880,Rathod Harsh Santosh,M,CSE,64.4,15,13,7.55,7.88,8.88,0,No
+CS202881,Raut Vedant Sanjay,M,CSE,81.9,16,19,9.07,7.03,8.86,0,No
+CS202882,Sabale Prajwal Chandrakant,M,CSE,61.0,14,12,7.4,9.42,7.19,2,Yes
+CS202883,Sainani Vedant Vinod,M,CSE,73.8,16,13,7.98,8.09,8.04,0,No
+CS202884,Salunke Shreyash Sanjay,M,CSE,91.0,18,18,8.73,7.39,7.63,0,No
+CS202885,Sanap Harshad Digambar,M,CSE,74.2,15,15,6.66,7.46,9.12,3,Yes
+CS202886,Sangale Abhishek Popat,M,CSE,91.2,22,19,9.14,6.63,7.01,0,No
+CS202887,Sangle Pratik Somnath,M,CSE,84.7,18,19,9.01,7.47,9.02,0,No
+CS202888,Sapkale Piyush Sanjay,M,CSE,63.2,14,14,8.19,8.61,FAIL,1,Yes
+CS202889,Sayyad Amaan Salim,M,CSE,84.8,17,16,8.01,7.37,8.39,0,No
+CS202890,Shahane Aditya Dnyaneshwar,M,CSE,66.7,15,12,9.4,FAIL,FAIL,1,Yes
+CS202891,Shaikh Arshaan Sameer,M,CSE,78.0,15,14,7.89,7.76,7.76,0,No
+CS202892,Shaikh Mohammad Zaid,M,CSE,88.1,17,21,7.5,7.2,8.63,0,No
+CS202893,Shaikh Shoaib Jamil,M,CSE,90.2,20,16,6.72,6.51,8.12,0,No
+CS202894,Shelke Gaurav Balasaheb,M,CSE,87.6,19,18,8.98,8.01,7.25,0,No
+CS202895,Shelke Prathmesh Somnath,M,CSE,62.0,15,13,9.04,7.97,6.84,0,No
+CS202896,Shelar Sahil Santosh,M,CSE,63.0,13,15,9.28,8.01,7.15,2,Yes
+CS202897,Shewale Prathamesh Vilas,M,CSE,92.8,22,22,7.98,7.88,8.65,0,No
+CS202898,Shinde Aditya Balasaheb,M,CSE,67.1,13,13,9.22,7.13,6.8,0,No
+CS202899,Shinde Harshal Sanjay,M,CSE,87.7,17,18,9.1,9.23,8.09,0,No
+CS202900,Shinde Jayesh Satish,M,CSE,67.8,16,13,8.27,FAIL,8.09,2,Yes
+CS202901,Shinde Kunal Sunil,M,CSE,80.6,18,18,9.44,6.83,8.72,0,No
+CS202902,Shinde Omkar Sanjay,M,CSE,60.8,15,12,9.5,8.78,7.79,0,No
+CS202903,Shinde Prathamesh Vilas,M,CSE,91.3,19,19,6.64,7.55,7.71,0,No
+CS202904,Shirude Rohan Shashikant,M,CSE,89.7,19,20,9.14,8.22,6.56,0,No
+CS202905,Siddiqui Arshaan Sameer,M,CSE,80.9,19,16,6.91,7.92,7.44,0,No
+CS202906,Solanki Jayesh Bharat,M,CSE,74.2,15,18,8.29,9.43,9.49,0,No
+CS202907,Somwanshi Ganesh Appasaheb,M,CSE,68.6,16,14,FAIL,8.06,8.8,2,Yes
+CS202908,Sonawane Atharva Sanjay,M,CSE,88.3,18,16,6.62,6.91,7.57,0,No
+CS202909,Suryawanshi Pruthviraj Balasaheb,M,CSE,82.6,17,15,7.2,7.13,6.51,0,No
+CS202910,Tambe Sahil Sanjay,M,CSE,64.3,14,13,7.02,9.15,FAIL,1,Yes
+CS202911,Tarle Rushikesh Valmik,M,CSE,73.1,15,16,9.01,6.72,8.22,0,No
+CS202912,Thakare Atharva Santosh,M,CSE,90.9,20,18,8.69,6.6,8.56,0,No
+CS202913,Thete Ganesh Bhausaheb,M,CSE,80.8,16,17,9.2,8.0,7.97,0,No
+CS202914,Thorat Prathamesh Sunil,M,CSE,89.7,20,17,8.45,9.37,7.41,0,No
+CS202915,Tidke Ganesh Bharat,M,CSE,78.6,18,19,8.46,7.09,7.18,0,No
+CS202916,Tiwari Abhishek Ashok,M,CSE,65.2,15,12,6.81,FAIL,8.77,3,Yes
+CS202917,Tupe Pranav Sanjay,M,CSE,63.4,14,11,7.31,6.59,7.39,2,Yes
+CS202918,Ugale Yash Sanjay,M,CSE,78.8,19,18,7.14,8.3,8.01,0,No
+CS202919,Vaidya Vedant Manoj,M,CSE,95.6,22,22,7.94,8.21,9.09,0,No
+CS202920,Vidhate Prathamesh Somnath,M,CSE,72.6,14,17,FAIL,8.16,8.11,2,Yes
+CS202921,Wagh Abhay Deepak,M,CSE,81.6,19,14,6.92,6.54,8.01,0,No
+CS202922,Wagh Aditya Nivrutti,M,CSE,97.4,23,21,8.06,6.87,7.98,0,No
+CS202923,Wagh Chaitanya Balasaheb,M,CSE,60.6,13,10,8.77,8.65,7.85,0,No
+CS202924,Wagh Pranav Sunil,M,CSE,83.8,19,16,8.36,7.5,7.95,0,No
+CS202925,Wagh Rushikesh Somnath,M,CSE,70.1,16,14,6.91,8.47,9.12,0,No
+CS202926,Walunj Tanmay Dnyaneshwar,M,CSE,65.3,13,14,8.27,7.58,6.74,2,Yes
+CS202927,Yelmame Sumit Anil,M,CSE,64.1,13,12,8.84,FAIL,8.86,3,Yes
+CS202928,Zade Tejas Vijay,M,CSE,61.9,15,13,FAIL,9.2,6.64,3,Yes
+CS202929,Zambare Pratik Sanjay,M,CSE,90.8,20,16,7.26,9.35,7.33,0,No
+IT202930,Aher Rutuja Namdev,F,IT,82.1,16,15,6.54,9.2,7.17,0,No
+IT202931,Aher Shrutika Sanjay,F,IT,69.3,14,17,8.81,8.79,8.54,0,No
+IT202932,Anarthe Siddhi Pravin,F,IT,87.4,21,20,8.11,9.1,9.12,0,No
+IT202933,Andhale Gauri Navnath,F,IT,64.3,14,11,7.5,8.94,8.12,3,Yes
+IT202934,Auti Shivanjali Jitendra,F,IT,79.9,16,18,8.45,7.67,7.5,0,No
+IT202935,Bagul Sanika Vijay,F,IT,91.0,19,17,8.1,9.36,8.87,0,No
+IT202936,Bairagi Shruti Digambar,F,IT,62.5,13,15,7.24,9.05,7.71,1,Yes
+IT202937,Baviskar Mayuri Kishor,F,IT,95.8,20,21,6.9,9.14,8.87,0,No
+IT202938,Bedarkar Vaishnavi Hemant,F,IT,76.1,18,18,7.3,6.66,7.4,0,No
+IT202939,Bhadange Vaishnavi Bhagwan,F,IT,96.1,23,23,6.85,6.86,8.32,0,No
+IT202940,Bhamare Bhakti Sanjay,F,IT,69.8,14,12,8.95,7.85,FAIL,1,Yes
+IT202941,Bhamare Dipti Shrikant,F,IT,89.4,20,18,6.83,7.79,7.4,0,No
+IT202942,Bhamare Jidnyasa Yogesh,F,IT,69.1,16,14,8.06,7.99,6.67,0,No
+IT202943,Bharambe Prerna Manoj,F,IT,97.1,22,23,7.83,9.49,6.62,0,No
+IT202944,Bhosale Purva Jitendra,F,IT,68.8,15,14,6.88,7.99,8.59,0,No
+IT202945,Bidve Shravani Somnath,F,IT,86.0,18,15,7.67,7.72,7.32,0,No
+IT202946,Borse Aditi Rajendra,F,IT,61.1,13,14,9.06,8.03,8.04,0,No
+IT202947,Chakor Prachi Bhausaheb,F,IT,68.8,16,13,7.39,8.15,8.01,0,No
+IT202948,Chaudhari Siddhi Jitendra,F,IT,90.6,19,21,8.65,7.67,7.52,0,No
+IT202949,Chavan Pallavi Somnath,F,IT,75.9,17,13,8.16,7.78,7.56,0,No
+IT202950,Chavanke Janhavi Sunil,F,IT,79.4,16,14,7.84,7.05,7.32,0,No
+IT202951,Dandagaval Gauri Sanjay,F,IT,97.3,23,17,6.82,8.31,9.09,0,No
+IT202952,Deore Siddhi Sanjay,F,IT,62.8,15,11,7.31,8.4,8.65,0,No
+IT202953,Deshmukh Isha Abhijit,F,IT,94.0,19,21,6.74,7.45,6.86,0,No
+IT202954,Deshmukh Shrawani Rajesh,F,IT,85.9,20,20,8.5,8.32,9.25,0,No
+IT202955,Deshpande Shruti Satish,F,IT,71.4,17,16,7.66,8.36,7.97,0,No
+IT202956,Dhatrak Tanaya Nitin,F,IT,94.3,19,17,8.41,8.76,8.3,0,No
+IT202957,Dhumal Anuja Sandeep,F,IT,73.0,16,16,6.51,FAIL,FAIL,1,Yes
+IT202958,Gadekar Manasi Popat,F,IT,63.6,12,14,9.32,9.34,8.58,0,No
+IT202959,Gaikwad Rutuja Santosh,F,IT,84.5,18,15,7.82,9.15,7.26,0,No
+IT202960,Gaikwad Sakshi Kailas,F,IT,78.2,17,16,7.93,9.25,8.63,0,No
+IT202961,Gaikwad Shrawani Rajendra,F,IT,97.2,19,17,8.97,7.02,6.83,0,No
+IT202962,Gite Samruddhi Sanjay,F,IT,91.4,18,22,7.23,8.21,9.15,0,No
+IT202963,Handge Tanvi Vinayak,F,IT,66.9,15,13,9.25,8.98,7.02,0,No
+IT202964,Hire Mansi Dnyaneshwar,F,IT,83.8,17,16,9.03,7.63,6.9,0,No
+IT202965,Ingale Pranjal Kailas,F,IT,92.2,21,21,8.8,6.95,8.2,0,No
+IT202966,Jadhav Dhanashri Kishor,F,IT,94.2,19,21,7.78,8.64,9.29,0,No
+IT202967,Jadhav Sanika Kiran,F,IT,95.4,21,22,7.31,7.3,8.32,0,No
+IT202968,Jadhav Vedika Arun,F,IT,63.8,13,15,8.96,8.97,6.6,0,No
+IT202969,Jagdale Pratiksha Popat,F,IT,65.3,16,14,8.27,8.5,8.76,0,No
+IT202970,Kadam Gauri Madhukar,F,IT,64.6,15,11,9.05,8.08,7.22,0,No
+IT202971,Kadam Gauri Sunil,F,IT,80.1,19,14,7.98,8.11,8.38,0,No
+IT202972,Kakad Sanika Kailas,F,IT,83.9,19,16,7.28,8.67,8.35,0,No
+IT202973,Kale Shrawani Santosh,F,IT,97.6,24,19,7.18,7.6,7.08,0,No
+IT202974,Kandekar Snehal Chandrakant,F,IT,66.1,16,13,6.62,8.96,9.12,0,No
+IT202975,Kanvade Nikita Sunil,F,IT,91.6,19,19,9.19,8.07,6.59,0,No
+IT202976,Karad Anuja Bhausaheb,F,IT,88.2,21,16,7.69,6.83,9.31,0,No
+IT202977,Kasar Janhavi Deepak,F,IT,71.3,17,15,7.58,9.11,FAIL,1,Yes
+IT202978,Katore Tanaya Balu,F,IT,60.1,12,11,6.54,6.73,FAIL,3,Yes
+IT202979,Khaire Sakshi Kailas,F,IT,78.9,16,18,8.92,9.42,8.34,0,No
+IT202980,Khan Ayesha Mukhtar,F,IT,94.4,21,17,8.18,7.73,9.29,0,No
+IT202981,Kokate Krutika Harishchandra,F,IT,95.3,20,20,9.44,8.52,7.01,0,No
+IT202982,Kyadari Rimanshi Gangadhar,F,IT,72.5,17,13,7.8,7.15,8.05,0,No
+IT202983,Mallick Suraj Luna,M,IT,69.5,16,13,FAIL,7.33,9.21,1,Yes
+IT202984,Mandape Atharva Sanjay,M,IT,64.5,13,13,8.46,8.92,9.48,0,No
