@@ -1,11 +1,15 @@
 import streamlit as st
 import pandas as pd
 from utils.data_processing import load_and_preprocess_data, get_department_data
+from utils.database import init_db, replace_department_data
 from tabs.dashboard import render_dashboard
 from tabs.ai_insights import render_ai_insights
 from tabs.outliers import render_outliers
 from tabs.leaderboard import render_leaderboard
 from tabs.data_assistant import render_data_assistant
+
+# Initialize Database on Startup
+init_db()
 
 # Page Setup
 st.set_page_config(
@@ -70,16 +74,62 @@ else:
 
 # Main Application logic
 if st.session_state["logged_in"]:
-    # Load dataset
-    filepath = "student_performance_analysis.csv"
-    full_df = load_and_preprocess_data(filepath)
+    # Load dataset from SQLite
+    full_df = load_and_preprocess_data()
     
     if full_df.empty:
-        st.warning("Data could not be loaded. Please ensure the CSV file is present.")
+        st.warning("Data could not be loaded. Please check the database.")
     else:
         # Filter for the logged in department automatically
         dept_df = get_department_data(full_df, st.session_state["department"])
         
+        # ---- IMPORT / MANAGE DATA SECION ----
+        with st.expander("📥 Manage Department Data"):
+            manage_tab1, manage_tab2 = st.tabs(["📝 Edit Current Data", "📤 Upload New CSV"])
+            
+            with manage_tab1:
+                st.write("Modify existing records or add new students for your department here:")
+                
+                # We show only editable columns to prevent breaking calculated fields if any.
+                # Preprocessed fields like avg_cgpa shouldn't be edited directly.
+                # For simplicity, we can let them edit the original df columns.
+                editable_df = st.data_editor(
+                    dept_df.drop(columns=['avg_cgpa', 'performance_trend', 'sem1_cgpa_display', 'sem2_cgpa_display', 'sem3_cgpa_display'], errors='ignore'), 
+                    num_rows="dynamic", 
+                    use_container_width=True,
+                    key="data_editor"
+                )
+                
+                if st.button("Save Changes", type="primary"):
+                    # user's edits are stored in editable_df
+                    replace_department_data(st.session_state["department"], editable_df)
+                    st.success("Data successfully updated!")
+                    st.cache_data.clear()
+                    st.rerun()
+
+            with manage_tab2:
+                st.write("Upload a entirely new CSV file to replace your current department's data:")
+                uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
+                
+                if uploaded_file is not None:
+                    if st.button("Replace Department Data", type="primary"):
+                        try:
+                            # Read uploaded file
+                            new_data_df = pd.read_csv(uploaded_file)
+                            # Ensure columns match (rudimentary check)
+                            if 'student_id' not in new_data_df.columns:
+                                st.error("Invalid CSV format. Missing 'student_id' column.")
+                            else:
+                                replace_department_data(st.session_state["department"], new_data_df)
+                                st.success("Department data successfully replaced!")
+                                st.cache_data.clear()
+                                st.rerun()
+                        except Exception as e:
+                            st.error(f"Error processing file: {e}")
+        # ---- END IMPORT / MANAGE DATA SECTION ----
+        
+        st.divider()
+
         # Tabs Layout
         tab1, tab2, tab3, tab4, tab5 = st.tabs([
             "📊 Dashboard", 

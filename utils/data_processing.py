@@ -1,14 +1,15 @@
 import pandas as pd
 import streamlit as st
 import os
+from utils.database import get_all_data
 
 @st.cache_data
-def load_and_preprocess_data(filepath: str) -> pd.DataFrame:
-    """Loads and preprocesses the student performance dataset."""
+def load_and_preprocess_data() -> pd.DataFrame:
+    """Loads and preprocesses the student performance dataset from database."""
     try:
-        df = pd.read_csv(filepath)
-    except FileNotFoundError:
-        st.error(f"Data file not found at {filepath}")
+        df = get_all_data()
+    except Exception as e:
+        st.error(f"Error loading database: {str(e)}")
         return pd.DataFrame()
 
     # Create original cgpa columns to preserve 'FAIL' string for display
